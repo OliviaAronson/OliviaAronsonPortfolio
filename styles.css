@@ -7,3 +7,24 @@ h1 {
   color: hotpink;
   font-size: 64px;
 }
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 24px 48px;
+}
+.nav-name {
+  color: #222222;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 32px;
+}
+.nav-links a {
+  color: #555555;
+  text-decoartion: none;
+}
