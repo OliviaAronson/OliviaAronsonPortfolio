@@ -4,8 +4,9 @@ body {
   font-family: Arial, sans-serif;
 }
 h1 {
-  color: hotpink;
   font-size: 64px;
+  line-height: 1.05;
+  margin: 24px 0;
 }
 .navbar {
   display: flex;
@@ -14,17 +15,36 @@ h1 {
 
   padding: 24px 48px;
 }
+
 .nav-name {
   color: #222222;
   font-size: 20px;
   font-weight: bold;
   text-decoration: none;
 }
+
 .nav-links {
   display: flex;
   gap: 32px;
 }
+
 .nav-links a {
   color: #555555;
   text-decoartion: none;
+}
+
+.hero {
+  padding: 100x 48px;
+}
+
+.hero-label {
+  font-size: 14px;
+  text-transfor,: uppercase;
+  letter-spacing: 2px;
+}
+
+.hero-intro {
+  max-width: 700px;
+  font-size: 20px;
+  line-height: 1.6;
 }
