@@ -31,16 +31,16 @@ h1 {
 
 .nav-links a {
   color: #555555;
-  text-decoartion: none;
+  text-decoration: none;
 }
 
 .hero {
-  padding: 100x 48px;
+  padding: 100px 48px;
 }
 
 .hero-label {
   font-size: 14px;
-  text-transfor,: uppercase;
+  text-transform: uppercase;
   letter-spacing: 2px;
 }
 
